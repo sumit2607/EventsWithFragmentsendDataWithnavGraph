@@ -20,7 +20,7 @@ public class TimeAndDateFragment extends Fragment {
 
     private EditText etstartdate,etenddate,etstarttime,etendtime;
     private Button btnnext;
-    private CommunicationListenner listenner;
+
     private String tittle;
     private String description;
     NavController navController;

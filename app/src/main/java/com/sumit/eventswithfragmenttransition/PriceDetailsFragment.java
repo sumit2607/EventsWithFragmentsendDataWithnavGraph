@@ -18,7 +18,7 @@ public class PriceDetailsFragment extends Fragment {
 
     private EditText etCurrency, etPrice;
     private Button btnnext;
-    private CommunicationListenner listenner;
+
     private String tittle, description, startdate, enddate, starttime, endtime;
 
     @Override
